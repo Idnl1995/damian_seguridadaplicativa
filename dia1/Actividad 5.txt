@@ -1,0 +1,98 @@
+Actividad 5: Preguntas
+
+1. ¿Qué es una red?
+
+Conjunto de dispositivos informáticos conectados entre sí
+
+2. ¿Qué es el modelo TCP/IP?
+
+El modelo tcp/ip es el protocolo que permite establecer una comunicación a través de la red entre dos dispositivos conectados a internet
+
+3. ¿Qué es una IP?
+
+(Internet protocol) es un protocolo de red que permite identificar a un dispositivo dentro de una red 
+
+4. ¿Qué es el protocolo TCP?
+
+El protocolo permite establecer una comunicación entre dos dispositivos dentro de una red estableciendo una conexión "apretón de manos"
+
+5. ¿Dentro del protocolo TCP, ¿qué es el protocolo HTTP?
+
+Hiper text transfer protocol permite la conexión a un sitio web
+
+6. Puerto del protocolo HTTP. 
+
+80
+
+7. Puerto del protocolo HTTPS 
+
+8080
+
+8. Diferencia entre HTTP y HTTPS
+
+La comunicación a través del protocolo HTTPS va cifrada
+
+9. ¿Qué significa el modelo cliente-servidor?
+
+En este caso el cliente establece una comunicación con el servidor a través de una petición o solictud
+
+9. ¿Qué es una petición (request)?
+
+Una petición es intentar solicitar datos de un servidor a través de métodos como GET
+
+10. ¿Qué es una respuesta(response)?
+
+Lo que devuelve el servidor tras una petición, es decir una respuesta y código de estado
+
+11. Secciones de una petición
+
+Header
+
+12. Secciones de una respuesta
+
+
+13. ¿El código de respuesta 404 y 500 a qué se refiere?
+
+404 hace referencia a que no se encuentra y el 500 a que no se muestra la búsqueda debido a un error interno del servidor
+
+14. Lenguajes de programación del lado del servidor (Back end).
+
+C, C++, C#, Python, Java
+
+15. Lenguajes de programación del lado del cliente (Front end)
+
+CSS
+
+16. ¿Qué es burp?
+
+Una herramienta que funciona como proxy y permite interceptar y modificar las solicitudes enviadas a un servidor desde un cliente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
