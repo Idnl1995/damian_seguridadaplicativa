@@ -1,0 +1,23 @@
+#Tabla de multiplicar del 1 al 10
+
+
+for f in range(1,11):
+	multiplicacion = 1 * f #hacemos la multiplicación
+	print(f'1 x {f} = {multiplicacion}') #mostramos el resultado
+
+
+1.Para realizar la multiplicación de un número por los números del 1 al 10 podemos realizarlo usando un ciclo for
+
+2.Primero establecemos el rango del ciclo for que en este caso sera de un rango 1,11 para considerar los 10 numeros que vamos a emplear en la
+multiplicación
+
+ciclo en rango 1-11
+
+3. Usamos una variable de nombre multiplicación que me permita realizar la multiplicación de un número de nuestra elección tipo entero por los números establecidos en el rango del ciclo
+
+multiplicacion es igual a numero por numero del rango
+
+4. Imprimimos el resultado de la multiplicación
+
+imprimir multiplicacion
+
