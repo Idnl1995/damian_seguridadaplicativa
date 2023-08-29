@@ -1,0 +1,1 @@
+useradd $1; #Añadimos usuario
