@@ -1,1 +1,0 @@
-sudo useradd -m -p 1234 -s /bin/zsh -c"hola" $1; #Añadimos usuario
