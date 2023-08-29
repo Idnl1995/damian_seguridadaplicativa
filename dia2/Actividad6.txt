@@ -1,0 +1,15 @@
+#/bin/bash
+
+mkdir herramientas
+
+mkdir /home/kali/herramientas/deb
+
+mv /home/kali/Downloads/code.deb /home/kali/herramientas/deb/code.deb
+
+mkdir  /home/kali/bak
+
+cp /home/kali/herramientas/code.deb /home/kali/bak/
+
+sudo dpkg -i /home/kali/herramientas/deb/code.deb
+
+echo "La instalacion exitosa"
