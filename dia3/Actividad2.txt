@@ -1,0 +1,29 @@
+#opcion 1 suma, 2 resta, 3 multiplicacion, 4 division
+
+opcion = int(input("Introduce un numero del 1 al 4: "))
+print("Opcion: ",opcion)
+num1 = int(input(("Introduce un numero entero: ")))
+num2 = int(input(("Introduce un numero entero: ")))
+
+def sumar(a, b): return a + b
+
+def restar(a, b): return a - b
+
+def multiplicar(a, b): return a * b
+
+def dividir(a, b): return a / b
+
+
+if(opcion==1):
+    resultado=sumar(num1,num2)
+    print("La suma es: ",resultado)
+elif(opcion==2):
+    resultado=restar(num1,num2)
+    print("La resta es: ",resultado)
+elif(opcion==3):
+    resultado=multiplicar(num1,num2)
+    print("La multiplicacion es: ",resultado)
+elif(opcion==4):
+    resultado=dividir(num1,num2)
+    print("La division es: ",resultado)
+
