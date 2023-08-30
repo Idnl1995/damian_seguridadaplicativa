@@ -20,6 +20,8 @@ def reprobados():
         contador=contador+1
         
         
-    print("Cantidad de reprobados: ", contador)
+    print("Cantidad: ", contador)
+
+reprobados()
 
 reprobados()
