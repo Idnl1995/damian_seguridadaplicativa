@@ -1,0 +1,11 @@
+palabra="Anitalavalatina" #Establecemos la palabra que comprobaremos si es palindromo"
+
+palabra = palabra.lower()#Cambiamos las letras a minusculas para poder realizar la comparación"
+
+palindromo = palabra[::-1] #Invertimos la palabra"
+
+if palabra.lower() == palindromo :        #Comparamos la palabra normal con la ivertida
+    print("Es un palindromo: "+palabra)
+
+else:
+    print("No es un palindromo: "+palabra)
