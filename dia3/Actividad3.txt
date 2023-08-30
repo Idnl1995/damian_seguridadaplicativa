@@ -15,13 +15,13 @@ promedio()
 
         
 def reprobados():
-    contador = 0
-    for numero in a:
-        contador=contador+1
-        
-        
-    print("Cantidad: ", contador)
+    cantidadrep = 0
 
-reprobados()
+    for numero in a:
+        if numero == 5:
+            cantidadrep += 1
+
+    print("La cantidad de reprobados es:", cantidadrep)
+    
 
 reprobados()
